@@ -1,6 +1,4 @@
-// Exercício 01 - Variáveis
-
-let nome = "Bleno";
+const nome = "Bleno";
 let idade = 22;
 let estudando = true;
 let cidade = "Recife";
